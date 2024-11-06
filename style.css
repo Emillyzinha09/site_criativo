@@ -2,7 +2,7 @@ body {
     color: rgb(35, 53, 102);
     background: rgb(223, 243, 75);
     margin: 0px;
-    font-family: "Georgia", serif;
+    font-family: serif;
     margin-bottom: 100px;
 }
 
@@ -56,5 +56,5 @@ p {
 }
 
 .categoria h2 {
-    color:rgb(82, 33, 69);
+    color:rgb(0, 0, 0);
 }
